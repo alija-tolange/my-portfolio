@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   const typedText = new Typed("#typed-text", {
-    strings: ["Web Developer", "Designer", "Professional"],
+    strings: ["Student"],
     typeSpeed: 60,
     backSpeed: 30,
     loop: true,
